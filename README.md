@@ -13,7 +13,7 @@
 
 <h3 align="left">My life with Android:</h3>
 
-*From `AbsoluteLayout` to `ConstraintLayout` to `Jetpack Compose`; from `Eclipse` to `Android Studio`; form `HTTPClient` to `Retrofit`; from `Activities` to `Fragments` to `MVVM` - People try to wash the older generations away by changing the game rules every day. I have been doing Android Apps for 11 years full, but it is fine to see me as a junior developer, because in the past 2-3 years the industry itself has obsoleted most of the things we have built before.*
+*From `AbsoluteLayout` to `ConstraintLayout` to `Jetpack Compose`; from `Eclipse` to `Android Studio`; form `HTTPClient` to `Retrofit`; from `Activities` to `Fragments` to `MVVM` - People try to wash the older generations away by changing the game rules every day. I have been doing Android Apps for 11 years full, but it is fine to see me as a junior developer, because in the past 2-3 years the industry itself has obsoleted most of the things we have built before, and we all backed to the same starting point. For a longer-lasting project, it can be true that we might only have a chance or two to learn and apply certain library-specific skills before they no longer appear on job descriptions.*
 - ⌨️ I learned Android App programming by myself, and published my first App in 2010
 - 📱 I have published 13 Apps on Google Play under RW MobiMedia since 2010
 - 💰 I own Android Apps that are profitable and have 1,000,000+ downloads
