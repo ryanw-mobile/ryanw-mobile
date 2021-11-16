@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Wong</h1>
 <h3 align="center">Android Developer, and more...</h3>
-<p align="center">If you are here by following the link on my CV, here I have some code samples to show my code style, and what I am learning.</p>
+<p align="center">If you are here by following the link on my CV, I have some code samples to show my code style, and what I am learning.</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanwong-uk&label=Profile%20views&color=b40e6f&style=flat" alt="ryanwong-uk" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanwong-uk&theme=dark" alt="ryanwong-uk" /></p>
 
@@ -8,11 +8,12 @@
 
 - 🧑‍💻 Open for permanent Android development role at any seniority in the UK
 - 👀 Interested in Android Apps Development, Smart Home and Multimedia
-- 🌱 Learning Jetpack Compose, Coroutine, and many more
+- 🌱 Learning `Jetpack Compose`, `Coroutine`, and many more
 - 📝 Publishing sample Apps here for employers' reference and peer code review
 
 <h3 align="left">My life with Android:</h3>
 
+*From `AbsoluteLayout` to `ConstraintLayout` to `Jetpack Compose`; from `Eclipse` to `Android Studio`; form `HTTPClient` to `Retrofit`; from `Activities` to `Fragments` to `MVVM` - People try to wash the older generations away by changing the game rules every day. I have been doing Android Apps for 11 years full, but it is fine to see me as a junior developer, because in the past 2-3 years the industry itself has obsoleted most of the things we have built before.*
 - ⌨️ I learned Android App programming by myself, and published my first App in 2010
 - 📱 I have published 13 Apps on Google Play under RW MobiMedia since 2010
 - 💰 I own Android Apps that are profitable and have 1,000,000+ downloads
@@ -41,6 +42,7 @@
 
 👇 The contribution graph below has most of my activities between late 2016-early 2021 removed. 
 This is because I have withdrawn access to my clients' repositories after their projects with RW MobiMedia UK Limited have concluded.
+I have used Subversion from 2008 to 2016.
 
 <!---
 ryanwong-uk/ryanwong-uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
