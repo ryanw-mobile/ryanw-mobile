@@ -6,9 +6,9 @@
 
 <h3 align="left">Current status:</h3>
 
-- 🧑‍💻 Open for permanent Android development role at any seniority in the UK
+- 🧑‍💻 Open for permanent Android development role at any seniority in the UK - remote preferred
 - 👀 Interested in Android Apps Development, Smart Home and Multimedia
-- 🌱 Learning `Jetpack Compose`, `Coroutine`, and many more
+- 🌱 Learning `Jetpack Compose`, `Coroutines`, and many more
 - 📝 Publishing sample Apps here for employers' reference and peer code review
 
 <h3 align="left">My life with Android:</h3>
