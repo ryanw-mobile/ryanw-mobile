@@ -27,7 +27,7 @@
 <a href="https://stackoverflow.com/users/6578176/ryan-wong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/8802508/ryan-wong" height="30" width="40" /></a>
 </p>
 
-- 📝 I keep my own technical notes and blog on [blog.ryanwong.co.uk](blog.ryanwong.co.uk)
+- 📝 I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
 - 📫 How to reach me **hello@ryanwong.co.uk**
 
 <h3 align="left">Languages and Tools:</h3>
