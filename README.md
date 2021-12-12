@@ -29,6 +29,7 @@
 
 - 📝 I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
 - 📫 How to reach me **hello@ryanwong.co.uk**
+- 🧑‍💻 Check out my training progress on my Google Developer profile: [g.dev/ryanwong-uk](https://g.dev/ryanwong-uk)
 
 <h3 align="left">Languages and Tools:</h3>
 
