@@ -6,10 +6,10 @@
 
 <h3 align="left">Current status:</h3>
 
-- 🧑‍💻 ~~Open for permanent Android development role at any seniority in the UK - remote preferred~~
-- 👀 Interested in Android Apps Development, Smart Home _(2022: Home Assistant)_ and Multimedia
+- 🧑‍💻 Open for permanent mid/Senior Android development role in the UK - remote preferred. Right to work in UK until 2026 (renewable)
+- 👀 Interested in Android Apps Development, Smart Home and Multimedia
 - 🌱 Learning `Jetpack Compose`, `Coroutines`, and many more
-- 📝 Publishing sample Apps here for ~~employers' reference and~~ peer code review
+- 📝 Publishing sample Apps here for employers' reference and peer code review
 
 <h3 align="left">My life with Android:</h3>
 
@@ -18,7 +18,7 @@
 - 📱 I have published 13 Apps on Google Play under RW MobiMedia since 2010
 - 💰 I own Android Apps that are profitable and have 1,000,000+ downloads
 - 🗂 I have 6+ years full time and contractor commercial Android Experience in Java
-- 🔦 My immediate future will be pure Kotlin, Coroutine, Material 3, Jetpack Compose 
+- 🔦 In 2022 I am doing Kotlin, Coroutine, Jetpack Compose and Material 3.
 
 <h3 align="left">Connect with me:</h3>
 
