@@ -8,7 +8,7 @@
 
 - 🧑‍💻 Open for permanent mid/Senior Android development role in the UK - remote preferred. Right to work in UK until 2026 (renewable)
 - 👀 Interested in Android Apps Development, Smart Home and Multimedia
-- 🌱 Learning `Jetpack Compose`, `Coroutines`, and many more
+- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Desktop App`, `Compose Multiplatform` and many more
 - 📝 Publishing sample Apps here for employers' reference and peer code review
 
 <h3 align="left">My life with Android since 2010 - I produce Apps as products, not just coding</h3>
