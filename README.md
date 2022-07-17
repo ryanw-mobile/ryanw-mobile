@@ -17,7 +17,7 @@
 - ⌨️ I learned Android App programming by myself, and published my first App in 2010
 - 📱 I have published 13 Apps on Google Play under RW MobiMedia since 2010
 - 💰 I personally own Android Apps that are profitable and have 1,000,000+ downloads
-- 🗂 I have 7+ years full time and contractor commercial Android Experience in Java
+- 🗂 I have 7+ years full time and contractor commercial Android Experience in Java covering the whole product cycle - you just tell me your idea and pay me money, and I design, develope, launch, and maange the App for you.
 - 🔦 In 2022 I am doing Kotlin, Coroutine, Jetpack Compose and Material 3. Also obsoleting Retrofit for Ktor.
 
 <h3 align="left">Connect with me:</h3>
