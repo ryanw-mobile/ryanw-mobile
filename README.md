@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ryan Wong</h1>
-<h3 align="center">Android Developer, and more...</h3>
+<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h3 align="center">I make Android Apps, and more...</h3>
 <p align="center">If you are here by following the link on my CV, I have some code samples to show my code style, and what I am learning.</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanwong-uk&label=Profile%20views&color=b40e6f&style=flat" alt="ryanwong-uk" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanwong-uk&theme=dark" alt="ryanwong-uk" /></p>
@@ -17,8 +17,10 @@
 - ⌨️ I learned Android App programming by myself, and published my first App in 2010
 - 📱 I have published 13 Apps on Google Play under RW MobiMedia since 2010
 - 💰 I personally own Android Apps that are profitable and have 1,000,000+ downloads
-- 🗂 I have 8+ years full time and contractor commercial Android Experience in Java covering the whole product cycle:<br/>you just tell me your idea and pay me, then I'll design, develop, launch, and maange the Apps for you.
-- 🔦 In 2022 I am doing Kotlin, Coroutine, Jetpack Compose and Material 3. Also obsoleting Retrofit for Ktor. Also doing Kotlin Desktop Apps.
+- 🗂 I have 8+ years full time and contractor commercial Android-Java development (and some leadership experience) covering the whole product cycle:<br/>you just tell me your idea and pay me, then I'll design, develop, launch, and maange the Apps for you.
+- 🔦 In 2022 I am doing Kotlin, Coroutine, Jetpack Compose and Material 3. Also obsoleting Retrofit for Ktor.
+- 🖥 Also doing Kotlin Compose Desktop Apps.
+- 👨🏻‍🦲 Also to keep remembering my ex-teammate Greg, you can see me writing more unit tests now.
 
 <h3 align="left">Connect with me:</h3>
 
