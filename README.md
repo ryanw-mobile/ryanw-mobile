@@ -21,7 +21,7 @@
 
 I would position myself as doing more creative R&D than being strictly technical. <br/>
 I take risks, I make mistakes, and I constantly face failures while celebrating achievements. <br/> 
-I am happy to connect with people with different backgrounds, who has some sense of humour. Probably share a joke with me to get started? 🙂
+I am happy to connect with people with different backgrounds, who have some sense of humour. *Probably share a joke with me to get started?* 🙂
 - 📝 I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
 - 📫 If you prefer email: **hello@ryanwong.co.uk**
 - 🧑‍💻 Check out my training progress on my Google Developer profile: [g.dev/ryanwong-uk](https://g.dev/ryanwong-uk)
@@ -43,7 +43,7 @@ I am happy to connect with people with different backgrounds, who has some sense
 
 <h3 align="left">My life since 2022</h3>
 
-- 👨🏻‍🦲 I have met the best teammate in my life *finally*. He changed a lot the way I work and code.
+- 👨🏻‍🦲 I have met the best teammate in my life *finally*. **Best gift of my UK life probably**. He changed a lot the way I work and code positively.
 - 👨🏻‍🦲 If you curious to know, we make virtually no contact outside a particular project. So as to keep remembering him, you can see me writing _even_ more tests now.
 
 &nbsp;
