@@ -4,7 +4,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanwong-uk&label=Profile%20views&color=b40e6f&style=flat" alt="ryanwong-uk" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanwong-uk&theme=dark" alt="ryanwong-uk" /></p>
 
-<h3 align="left">TLDR:</h3>
+<h3 align="left">TLDR</h3>
 
 - 🧑‍💻 Open for permanent mid/Senior Android development role (remote) in the UK. I'm a UK resident.
 - 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Desktop App`, `Compose Multiplatform`, and personally, a good person
@@ -12,14 +12,16 @@
 
 &nbsp;
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ryanwonguk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6578176/ryan-wong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/8802508/ryan-wong" height="30" width="40" /></a>
 </p>
 
-I would position myself as doing more creative R&D than being strictly technical. I am happy to connect with people with different backgrounds, who has some sense of humour. Probably share a joke with me to get started? 🙂
+I would position myself as doing more creative R&D than being strictly technical. <br/>
+I take risks, I make mistakes, and I constantly face failures while celebrating achievements. <br/> 
+I am happy to connect with people with different backgrounds, who has some sense of humour. Probably share a joke with me to get started? 🙂
 - 📝 I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
 - 📫 If you prefer email: **hello@ryanwong.co.uk**
 - 🧑‍💻 Check out my training progress on my Google Developer profile: [g.dev/ryanwong-uk](https://g.dev/ryanwong-uk)
