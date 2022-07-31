@@ -4,23 +4,13 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanwong-uk&label=Profile%20views&color=b40e6f&style=flat" alt="ryanwong-uk" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanwong-uk&theme=dark" alt="ryanwong-uk" /></p>
 
-<h3 align="left">Current status:</h3>
+<h3 align="left">TLDR:</h3>
 
-- 🧑‍💻 Open for permanent mid/Senior Android development role in the UK - remote preferred. Right to work in UK until 2026 (renewable)
-- 👀 Interested in Android Apps Development, Smart Home and Multimedia
-- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Desktop App`, `Compose Multiplatform` and many more
-- 📝 Publishing sample Apps here for employers' reference and peer code review
+- 🧑‍💻 Open for permanent mid/Senior Android development role (remote) in the UK. I'm a UK resident.
+- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Desktop App`, `Compose Multiplatform`, and personally, a good person
+- 📝 Publishing sample Apps and experimental projects here for reference and code review
 
-<h3 align="left">My life with Android since 2010 - I produce Apps as products, not just coding</h3>
-
-*From `AbsoluteLayout` to `ConstraintLayout` to `Jetpack Compose`; from `Eclipse` to `Android Studio`; form `HTTPClient` to `Retrofit`; from `Activities` to `Fragments` to `MVVM` (and `MVI` is being worshipped now); from `Java` to `Kotlin` - We have game changers every day. I have been producing Android Apps and managing Apps distributions for 12+ years, but it is still fine to see me as a junior developer, because in the past few years, the industry itself has obsoleted most of the things we have built up before, and we all backed to the same starting point. For a longer-lasting project, it can be true that we might only have a chance or two to learn and apply certain library-specific skills before they no longer appear on job descriptions.*
-- ⌨️ I learned Android App programming by myself, and published my first App in 2010
-- 📱 I have published 13 Apps on Google Play under RW MobiMedia since 2010
-- 💰 I personally own Android Apps that are profitable and have 1,000,000+ downloads
-- 🗂 I have 8+ years full time and contractor commercial Android-Java development (and some leadership experience) covering the whole product cycle:<br/>you just tell me your idea and pay me, then I'll design, develop, launch, and maange the Apps for you.
-- 🔦 In 2022 I am doing Kotlin, Coroutine, Jetpack Compose and Material 3. Also obsoleting Retrofit for Ktor.
-- 🖥 Also doing Kotlin Compose Desktop Apps.
-- 👨🏻‍🦲 Also to keep remembering my ex-teammate Greg, you can see me writing more unit tests now.
+&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 
@@ -29,9 +19,32 @@
 <a href="https://stackoverflow.com/users/6578176/ryan-wong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/8802508/ryan-wong" height="30" width="40" /></a>
 </p>
 
+I would position myself as doing more creative R&D than being strictly technical. I am happy to connect with people with different backgrounds, who has some sense of humour. Probably share a joke with me to get started? 🙂
 - 📝 I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
-- 📫 How to reach me **hello@ryanwong.co.uk**
+- 📫 If you prefer email: **hello@ryanwong.co.uk**
 - 🧑‍💻 Check out my training progress on my Google Developer profile: [g.dev/ryanwong-uk](https://g.dev/ryanwong-uk)
+
+&nbsp;
+
+<h3 align="left">My life with Android since 2010 - I produce Apps as products, not just coding</h3>
+
+*From `AbsoluteLayout` to `ConstraintLayout` to `Jetpack Compose`; from `Eclipse` to `Android Studio`; from `Activities` to `Fragments`; from `Java` to `Kotlin`; from `AsyncTask` to `RxJava` to `Coroutines` - We have game changers every day.*
+
+*I have been producing Android Apps and managing Apps distributions for 12+ years, but it is still fine to see me as a junior developer, because in the past few years, the industry itself has obsoleted most of the things we have built up before, and we all backed to the same starting point. With things like Jetpack Compose that only became production ready in 2021, what made us different even I have spent a very long time using `RecyclerView`?*
+
+- ⌨️ I learnt Android App programming by myself (through reverse engineering), and published my first App in 2010
+- 📱 I have published 13 Apps on Google Play under _RW Android Labs_ / _RW MobiMedia_ since 2010
+- 💰 I personally own Android Apps that are profitable, and hit 1,000,000+ downloads
+- 🗂 I have 8+ years full time and contractor commercial Android-Java development (and some leadership) experience, covering the whole product cycle:<br/>you just tell me your idea and pay me, then I'll design, develop, launch, and maange the Apps for you.
+
+&nbsp;
+
+<h3 align="left">My life since 2022</h3>
+
+- 👨🏻‍🦲 I have met the best teammate in my life *finally*. He changed a lot the way I work and code.
+- 👨🏻‍🦲 If you curious to know, we make virtually no contact outside a particular project. So as to keep remembering him, you can see me writing _even_ more tests now.
+
+&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 
