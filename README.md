@@ -7,23 +7,20 @@
 ## TLDR
 
 - 🧑‍💻 Open for permanent mid/Senior Android development role (remote) in the UK. I'm a UK resident.
-- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Compose Desktop`, and a person good enough to be accepted by the Britons.
+- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Compose Desktop`, and to be a good person that can make good people to stay with me.
 - 📝 Publishing sample Apps and experimental projects here for reference and code review.
 
 &nbsp;
 
 ## Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ryanwonguk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6578176/ryan-wong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/8802508/ryan-wong" height="30" width="40" /></a>
-</p>
-
-I would position myself as doing more crazy R&D than being strictly technical.<br/>
-I live an adventurous life - I take risks, I make mistakes, and I constantly face failures while celebrating achievements. <br/> 
+I would position myself as doing more out-of-the-box product R&D than being strictly technical.<br/>
+I live an adventurous life - I take risks, I make mistakes, and I constantly face failures while celebrating achievements.<br/> 
 I am happy to connect with people with different backgrounds, who have some sense of humour. *Probably share a joke with me to get started?* 🙂
-- 📝 I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
-- 📫 If you prefer email: **hello@ryanwong.co.uk**
+
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="20" width="20" />  Best way would be to connect me on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ryanwonguk/)
+- 📝  I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
+- 📫  If you prefer email: **hello@ryanwong.co.uk**
 
 &nbsp;
 
@@ -43,7 +40,7 @@ I have been producing Android Apps and managing Apps distributions for 12+ years
 ## My life since 2022
 
 - 👨🏻‍🦲 I have met the best teammate so far in my life. He is not perfect, but he changed a lot the way I work and code positively.
-- 👨🏻‍🦲 I know your follow-up question 🙃 - no, we make no contact outside the project at all, _unfortunately_.
+- 👨🏻‍🦲 I know your follow-up question 🙃 - No, _unfortunately_.
 
 &nbsp;
 
