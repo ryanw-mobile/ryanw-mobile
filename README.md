@@ -16,9 +16,9 @@
 
 I would position myself as doing more out-of-the-box product R&D than being strictly technical.<br/>
 I live an adventurous life - I take risks, I make mistakes, and I constantly face failures while celebrating achievements.<br/> 
-I am happy to connect with people with different backgrounds, who have some sense of humour. *Probably share a joke with me to get started?* 🙂
+Being a traveller, I am happy to connect with people with different backgrounds. Probably you just need some sense of humour to get started 🙂
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="20" width="20" />  Best way would be to connect me on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ryanwonguk/)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="20" width="20" />  Best way would be to connect me on [LinkedIn](https://www.linkedin.com/in/ryanwonguk/)
 - 📝  I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
 - 📫  If you prefer email: **hello@ryanwong.co.uk**
 
@@ -40,7 +40,7 @@ I have been producing Android Apps and managing Apps distributions for 12+ years
 ## My life since 2022
 
 - 👨🏻‍🦲 I have met the best teammate so far in my life. He is not perfect, but he changed a lot the way I work and code positively.
-- 👨🏻‍🦲 I know your follow-up question 🙃 - No, _unfortunately_.
+- 👨🏻‍🦲 I know your follow-up question 🙃 - No and no, _unfortunately_.
 
 &nbsp;
 
