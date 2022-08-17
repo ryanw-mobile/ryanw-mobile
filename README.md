@@ -14,9 +14,8 @@
 
 ## Connect with me
 
-I would position myself as doing more out-of-the-box product R&D than being strictly technical.<br/>
 I live an adventurous life - I take risks, I make mistakes, and I constantly face failures while celebrating achievements.<br/> 
-Being a traveller, I am happy to connect with people with different backgrounds. Probably you just need some sense of humour to get started 🙂
+I am happy to connect with people with different backgrounds. Just if that helps, I am an INFJ.
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="20" width="20" />  Best way would be to connect me on [LinkedIn](https://www.linkedin.com/in/ryanwonguk/)
 - 📝  I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
