@@ -39,7 +39,6 @@ I have been producing Android Apps and managing Apps distributions for 12+ years
 ## My life since 2022
 
 - 👨🏻‍🦲 I have met the best teammate so far in my life. He is not perfect, and sometimes can be really harsh, but he changed a lot the way I work and code positively.
-- 👨🏻‍🦲 I know your follow-up question 🙃 - No and no, _unfortunately_.
 
 &nbsp;
 
