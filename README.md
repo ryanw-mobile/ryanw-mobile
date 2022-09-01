@@ -36,12 +36,6 @@ I have been producing Android Apps and managing Apps distributions for 12+ years
 
 &nbsp;
 
-## My life since 2022
-
-- 👨🏻‍🦲 I have met the best teammate so far in my life. He is not perfect, and sometimes can be really harsh, but he changed a lot the way I work and code positively.
-
-&nbsp;
-
 ## Languages and Tools
 
 - 🖥 My programming language history: LOGO, GWBASIC, Pascal, JavaScript, Perl, Java, PHP, Kotlin 
