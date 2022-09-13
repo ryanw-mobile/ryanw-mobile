@@ -15,7 +15,7 @@
 ## Connect with me
 
 I live an adventurous life - I take risks, I make mistakes, and I constantly face failures while celebrating achievements.<br/> 
-I am happy to connect with people with different backgrounds. Just if you believe in this, I am an INFJ.
+I am happy to connect with people with different backgrounds. Just if you believe in this, I am an [INFJ-T](https://www.16personalities.com/profiles/9f780fede2fae).
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="20" width="20" />  Best way would be to connect me on [LinkedIn](https://www.linkedin.com/in/ryanwonguk/)
 - 📝  I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
@@ -23,7 +23,7 @@ I am happy to connect with people with different backgrounds. Just if you believ
 
 &nbsp;
 
-## My life with Android since 2010 - I produce Apps as products, not just coding
+## My life with Android since 2010 - I produce Apps as products with a hope that people would really use it, not just coding
 
 From `AbsoluteLayout` to `ConstraintLayout` to `Jetpack Compose`; from `Eclipse` to `Android Studio`; from `Java` to `Kotlin`; from `AsyncTask` to `RxJava` to `Coroutines` - We have game changers every day.
 
