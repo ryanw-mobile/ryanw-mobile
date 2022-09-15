@@ -6,16 +6,14 @@
 
 ## TLDR
 
-- 🧑‍💻 Open for my next permanent senior level Android development role (remote) in the UK commencing Oct 2022. I'm a UK resident.
-- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Compose Desktop`, and to be a good person that can make good people to stay with me.
+- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Compose Desktop`.
 - 📝 Publishing sample Apps and experimental projects here for reference and code review.
 
 &nbsp;
 
 ## Connect with me
 
-I live an adventurous life - I take risks, I make mistakes, and I constantly face failures while celebrating achievements.<br/> 
-I am happy to connect with people with different backgrounds. Just if you believe in this, I am an [INFJ-T](https://www.16personalities.com/profiles/9f780fede2fae).
+I am happy to connect with people with different backgrounds.
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="20" width="20" />  Best way would be to connect me on [LinkedIn](https://www.linkedin.com/in/ryanwonguk/)
 - 📝  I keep my own technical notes and blog on [blog.ryanwong.co.uk](https://blog.ryanwong.co.uk/)
