@@ -21,7 +21,9 @@ I am happy to connect with people with different backgrounds.
 
 &nbsp;
 
-## My life with Android since 2010 - I produce Apps as products with a hope that people would really use it, not just coding
+## My life with Android since 2010
+
+I produce Apps as products with a hope that people would really use it, not just coding.
 
 From `AbsoluteLayout` to `ConstraintLayout` to `Jetpack Compose`; from `Eclipse` to `Android Studio`; from `Java` to `Kotlin`; from `AsyncTask` to `RxJava` to `Coroutines` - We have game changers every day.
 
