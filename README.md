@@ -24,10 +24,6 @@ I am happy to connect with people with different backgrounds.
 
 I produce Apps as products with a hope that people would really use it, not just coding.
 
-From `AbsoluteLayout` to `ConstraintLayout` to `Jetpack Compose`; from `Eclipse` to `Android Studio`; from `Java` to `Kotlin`; from `AsyncTask` to `RxJava` to `Coroutines` - We have game changers every day.
-
-I have been producing Android Apps and managing Apps distributions for 13+ years, but in the past few years, the industry itself has obsoleted most of the things we have built up before, and we all backed to the same starting point. With things like Jetpack Compose that only became production ready in 2021, what made me being different, even I have spent a very long time dealing with `RecyclerView`? and what made you being more superior by googling one more Coroutines article earlier than me? I like people being equal, with minimum politics.
-
 - ⌨️ I learnt Android App programming by myself (through reverse engineering), and published my first App in 2010
 - 📱 I have published 13 Apps on Google Play under _RW Android Labs_ / _RW MobiMedia_ since 2010
 - 💰 I personally own Android Apps that are profitable, and hit 1,000,000+ downloads
