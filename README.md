@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">I make Android Apps, and more...</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanwong-uk&label=Profile%20views&color=b40e6f&style=flat" alt="ryanwong-uk" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanwong-uk&theme=dark" alt="ryanwong-uk" />&nbsp;&nbsp;<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanwong-uk&show_icons=true&theme=dark&locale=en" alt="ryanwong-uk" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanwong-uk&theme=dark" alt="ryanwong-uk" /><br/><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanwong-uk&show_icons=true&theme=dark&locale=en" alt="ryanwong-uk" /></p>
 
 ## TLDR
 
-- 👨🏼‍💻 Open to work: looking for my next UK remote Senior Android Developer role.
+- 👨🏼‍💻 Open to work: looking for my next UK/Asia remote Senior Android Developer role.
 - 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Compose Desktop`.
-- 📝 Publishing sample Apps and experimental projects here for reference and code review.
+- 📝 Publishing sample Apps and experimental projects here for reference and collaborations.
 
 &nbsp;
 
 ## Connect with me
-
-I am happy to connect with people with different backgrounds.
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="20" width="20" />  Best way would be to connect me on [LinkedIn](https://www.linkedin.com/in/ryanwonguk/)
 - 📫  If you prefer email: **hello@ryanwong.co.uk**
@@ -27,7 +25,7 @@ I produce Apps as products with a hope that people would really use it, not just
 - ⌨️ I learnt Android App programming by myself (through reverse engineering), and published my first App in 2010
 - 📱 I have published 13 Apps on Google Play under _RW Android Labs_ / _RW MobiMedia_ since 2010
 - 💰 I personally own Android Apps that are profitable, and hit 1,000,000+ downloads
-- 🗂 I have 8+ years full time and contractor commercial Android-Java development (and some leadership) experience, covering the whole product cycle:<br/>you just tell me your idea and pay me, then I'll design, develop, launch, and maange the Apps for you.
+- 🗂 I have 8+ years full time and contractor commercial Android-Java development (and some leadership) experience, covering the whole product cycle.
 
 &nbsp;
 
