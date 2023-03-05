@@ -6,15 +6,8 @@
 ## TLDR
 
 - 👨🏼‍💻 Open to work: looking for my next UK/Asia remote Senior Android Developer role.
-- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Compose Desktop`.
+- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform` and `Kotlin Compose Desktop`.
 - 📝 Publishing sample Apps and experimental projects here for reference and collaborations.
-
-&nbsp;
-
-## Connect with me
-
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanwonguk/" height="20" width="20" />  Best way would be to connect me on [LinkedIn](https://www.linkedin.com/in/ryanwonguk/)
-- 📫  If you prefer email: **hello@ryanwong.co.uk**
 
 &nbsp;
 
@@ -22,7 +15,7 @@
 
 I produce Apps as products with a hope that people would really use it, not just coding.
 
-- ⌨️ I learnt Android App programming by myself (through reverse engineering), and published my first App in 2010
+- ⌨️ I was a self-taught Android Developer (through reverse engineering). I have published my first App in 2010.
 - 📱 I have published 13 Apps on Google Play under _RW Android Labs_ / _RW MobiMedia_ since 2010
 - 💰 I personally own Android Apps that are profitable, and hit 1,000,000+ downloads
 - 🗂 I have 8+ years full time and contractor commercial Android-Java development (and some leadership) experience, covering the whole product cycle.
@@ -31,7 +24,8 @@ I produce Apps as products with a hope that people would really use it, not just
 
 ## Languages and Tools
 
-Currently I spend all of my time on Kotlin. I enjoy using it as my main language. I do know some other languages but it will take me some time if I have to pick them up again.
+Currently I spend all of my time on Kotlin. I enjoy using it as my main language. 
+I do know some other languages but it will take me some time if I have to pick them up again.
 
 - 🖥 My programming language history: LOGO, GWBASIC, Pascal, JavaScript, Perl, Java, PHP, Python, Kotlin 
 - 💼 I used to do multimedia/video-on-demand, web design/programming, and system administrations with some vendor certifications
