@@ -18,7 +18,7 @@ I produce Apps as products, hoping people would use them, not just code.
 - ⌨️ I was a self-taught Android Developer (through reverse engineering). I published my first App in 2010.
 - 📱 I have published 13 Apps on Google Play under _RW Android Labs_ / _RW MobiMedia_ since 2010.
 - 💰 I own Android Apps that are profitable and hit 1,000,000+ downloads.
-- 🗂 I have 8+ years of full-time and contractor commercial Android-Java development (and some leadership) experience, covering the whole product cycle.
+- 🗂 I have 8+ years of full-time and contractor commercial Android Apps development (and some leadership) experience, covering the whole product cycle.
 
 &nbsp;
 
