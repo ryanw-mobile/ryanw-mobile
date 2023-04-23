@@ -37,7 +37,7 @@ I wrote pretty good Pascal code 30 years ago, but I guess now I cannot write any
 👇 The contribution graph below has removed most of my activities between late 2016-early 2021. <br/>
 I have withdrawn access to my clients' repositories after their projects with RW MobiMedia UK Limited have concluded.<br/>
 I used Subversion from 2008 to 2016. <br/>
-I used Java for Android before working in the UK in 2021. It was the British employers told me no Kotlin, no job at that time.<br/>
+I used Java for Android before working in the UK in 2021. At that time, British employers told me, 'No Kotlin, no job'.
 
 <!---
 ryanwong-uk/ryanwong-uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
