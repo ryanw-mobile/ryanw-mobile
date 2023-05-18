@@ -5,8 +5,7 @@
 
 ## TLDR
 
-- 👨🏼‍💻 Open to work: looking for my next UK/Asia remote Senior Android Developer role.<br/> I talk about tasks and people before money and comapny names.
-- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform` and `Kotlin Compose Desktop`.
+- 🌱 Learning `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform` and `Compose Multiplatform`.
 - 📝 Publishing sample Apps and experimental projects here for reference and collaboration.
 
 &nbsp;
@@ -19,15 +18,15 @@ I produce Apps as products, hoping people would use them, not just code.
 - 📱 I have published 13 Apps on Google Play under _RW Android Labs_ / _RW MobiMedia_ since 2010.
 - 💰 I own Android Apps that are profitable and hit 1,000,000+ downloads.
 - 🗂 I have 8+ years of full-time and contractor commercial Android Apps development (and some leadership) experience, covering the whole product cycle.
+- 👨🏻‍🦲 In case you cannot spot it, my code style and habit changed a bit after working with someone closely for months in 2022.
 
 &nbsp;
 
 ## Languages and Tools
 
-Java and XML views on Android MUST have to be ditched.<br/>
 Currently I spend all of my time on Kotlin. I enjoy using it as my main language. <br/>
-I know some other languages, but it will take me some time to pick them up again. <br/>
-I wrote pretty good Pascal code 30 years ago, but I guess now I cannot write any during your live coding interview. So, be practical :)<br/>
+Java was my primary language from 1999 to 2021, and I know some other languages, but it will take me some time to pick them up again. <br/>
+I wrote pretty good Pascal code 30 years ago, but I guess now I cannot write any without warming up again. So, be practical :)<br/>
 
 - 🖥 My programming language history: LOGO, GWBASIC, Pascal, JavaScript, Perl, Java, PHP, Python, Kotlin 
 - 💼 I used to do multimedia/video-on-demand, web design/programming, and system administrations with some vendor certifications
