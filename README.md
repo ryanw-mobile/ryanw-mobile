@@ -5,9 +5,9 @@
 
 ## TLDR
 
+- ✈️ UK resident returning Hong Kong. Looking for Android development roles in Hong Kong/Asia.
 - 🌱 Focusing on `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform` and `Compose Multiplatform`.
 - 📝 Publishing sample Apps and experimental projects here for reference and collaboration.
-- ✈️ UK resident, but any chance to leave the UK, work with euthanistic developers, and apply my experience in Asia?
 
 &nbsp;
 
