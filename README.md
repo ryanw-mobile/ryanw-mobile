@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">I make Android Apps, and more...</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ryanwong-uk&label=Profile%20views&color=b40e6f&style=flat" alt="ryanwong-uk" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanwong-uk&theme=dark" alt="ryanwong-uk" /><br/><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanwong-uk&show_icons=true&theme=dark&locale=en" alt="ryanwong-uk" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=b40e6f&style=flat" alt="ryanw-mobile" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=dark" alt="ryanw-mobile" /><br/><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanw-mobile&show_icons=true&theme=dark&locale=en" alt="ryanw-mobile" /></p>
 
 ## TLDR
 
@@ -32,7 +32,7 @@ I learned other languages and wrote pretty good Pascal code 30 years ago. Now I 
 - 🖥 Languages history: LOGO, GWBASIC, Visual Basic, Pascal, JavaScript, Perl, (ActionScript/Lingo), Java, (some VC++, eVC++), PHP, ASP.Net, Python, Kotlin 
 - 💼 I used to do multimedia/video-on-demand, web design/programming, and system administrations (with a list of vendor certifications)
 
-<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ryanwong-uk&show_icons=true&locale=en&layout=compact" alt="ryanwong-uk" /></p>
+<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact" alt="ryanw-mobile" /></p>
 
 👇 The contribution graph below has removed most of my activities between late 2016-early 2021. <br/>
 I have withdrawn access to my clients' repositories after their projects with RW MobiMedia UK Limited have concluded.<br/>
@@ -40,6 +40,6 @@ I used Subversion from 2008 to 2016. <br/>
 I used Java for Android before working in the UK in 2021.
 
 <!---
-ryanwong-uk/ryanwong-uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ryanw-mobile/ryanw-mobile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
