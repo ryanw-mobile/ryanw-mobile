@@ -5,7 +5,7 @@
 
 ## TLDR
 
-- ✈️ UK resident returning Hong Kong. Looking for Android development roles in Hong Kong/Asia.
+- ✈️ UK resident. Looking for my next Senior Android Developer role.
 - 🌱 Focusing on `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform` and `Compose Multiplatform`.
 - 📝 Publishing sample Apps and experimental projects here for reference and collaboration.
 
