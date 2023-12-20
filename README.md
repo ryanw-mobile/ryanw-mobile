@@ -30,6 +30,7 @@ I produce Apps as products, hoping people would use them, not just code.
 
 ## Languages and Tools
 
+- Most key public Github repositories are backed by Github Actions and Renovate for automation.<br/>
 - Kotlin is my current main language. I spend all of my time on it and enjoy using it. <br/>
 - Java was my primary language from 1999 to 2021. I have several Java certifications. <br/>
 - I learned other languages and wrote pretty good Pascal code 30 years ago. Now I cannot write any without warming up
