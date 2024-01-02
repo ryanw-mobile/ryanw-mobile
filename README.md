@@ -4,14 +4,14 @@
 <p align="center">
   <img src="neverhexedagain.webp" style="width: 100%; max-width: 1000px; height: auto;">
 </p>
-<p align="center"><picture style="width: 40%; max-width: 40%;" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=light">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=dark" alt="ryanw-mobile"  style="width: 40%; max-width: 40%;" />
-</picture> <picture style="width: 40%; max-width: 40%;" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanw-mobile&show_icons=true&theme=dark&locale=en">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanw-mobile&show_icons=true&theme=light&locale=en">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanw-mobile&show_icons=true&theme=dark&locale=en" alt="ryanw-mobile"  style="width: 40%; max-width: 40%;" />
+<p align="center"><picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=apprentice">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=default">
+  <img src="https://github-readme-stats.vercel.app/?user=ryanw-mobile&theme=apprentice" alt="ryanw-mobile"/>
+</picture> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=apprentice">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=apprentice" alt="ryanw-mobile"/>
 </picture></p>
 
 ## About Me
@@ -36,10 +36,16 @@ Transforming ideas into engaging apps since 2010.
 ## Skills and Tools
 
 - 🛠️ Skilled in Kotlin, Java, and various other languages
-- 🔄 All major public repositories automated with Github Actions and Renovate
 - 🎓 Previously proficient in Java (1999-2021) with multiple certifications
+- 🔄 All major public repositories automated with Github Actions and Renovate
   
-<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact" alt="ryanw-mobile" /></p>
+<p align="center">
+  <picture style="width: 40%; max-width: 40%;" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=apprentice">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="ryanw-mobile"  style="width: 40%; max-width: 40%;" />
+  </picture>
+</p>
 
 &nbsp;
 
