@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">I make Android Apps, and more... <i>through Kotlin Multiplatform</i> </h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=b40e6f&style=flat" alt="ryanw-mobile" /></p>
 <p align="center">
   <img src="neverhexedagain.webp" style="width: 100%; max-width: 1000px; height: auto;">
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=b40e6f&style=flat" alt="ryanw-mobile" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=dark" alt="ryanw-mobile" /><br/><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanw-mobile&show_icons=true&theme=dark&locale=en" alt="ryanw-mobile" /></p>
+<p align="center"><picture style="width: 40%; max-width: 40%;" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=light">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=dark" alt="ryanw-mobile"  style="width: 40%; max-width: 40%;" />
+</picture> <picture style="width: 40%; max-width: 40%;" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanw-mobile&show_icons=true&theme=dark&locale=en">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanw-mobile&show_icons=true&theme=light&locale=en">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanw-mobile&show_icons=true&theme=dark&locale=en" alt="ryanw-mobile"  style="width: 40%; max-width: 40%;" />
+</picture></p>
 
 ## About Me
 
