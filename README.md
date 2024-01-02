@@ -2,7 +2,7 @@
 <h3 align="center">I make Android Apps, and more... <i>through Kotlin Multiplatform</i> </h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=b40e6f&style=flat" alt="ryanw-mobile" /></p>
 <p align="center">
-  <img src="blessuneva.webp" style="width: 100%; max-width: 1000px; height: auto;">
+  <img src="blessuneva2.webp" style="width: 100%; max-width: 1000px; height: auto;">
 </p>
 <p align="center"><picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=apprentice">
