@@ -2,9 +2,9 @@
 <h3 align="center">I make Android Apps, and more... <i>through Kotlin Multiplatform</i> </h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=b40e6f&style=flat" alt="ryanw-mobile" /></p>
 <p align="center">
-  <img src="blessuneva2.webp" style="width: 100%; max-width: 1000px; height: auto;">
+  <img src="BlessUneva3.webp" style="width: 100%; max-width: 1000px; height: auto;">
 </p>
-<p align="center"><picture >
+<p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=apprentice">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=default">
   <img src="https://github-readme-stats.vercel.app/?user=ryanw-mobile&theme=apprentice" alt="ryanw-mobile"/>
@@ -40,10 +40,10 @@ Transforming ideas into engaging apps since 2010.
 - 🔄 All major public repositories automated with Github Actions and Renovate
   
 <p align="center">
-  <picture style="width: 40%; max-width: 40%;" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=apprentice">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="ryanw-mobile"  style="width: 40%; max-width: 40%;" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=apprentice&card_width=700px">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=default&card_width=700px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=apprentice&card_width=700px" alt="ryanw-mobile" />
   </picture>
 </p>
 
