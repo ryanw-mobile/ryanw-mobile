@@ -5,13 +5,13 @@
   <img src="BlessUneva3.webp" style="width: 100%; max-width: 1000px; height: auto;">
 </p>
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=apprentice&disable_animations=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=slateorange&disable_animations=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=default&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/?user=ryanw-mobile&theme=apprentice&disable_animations=true" alt="ryanw-mobile"/>
+  <img src="https://github-readme-stats.vercel.app/?user=ryanw-mobile&theme=slateorange&disable_animations=true" alt="ryanw-mobile"/>
 </picture> <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=apprentice&disable_animations=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=slateorange&disable_animations=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=default&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=apprentice&disable_animations=true" alt="ryanw-mobile"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=slateorange&disable_animations=true" alt="ryanw-mobile"/>
 </picture></p>
 
 ## About Me
@@ -41,9 +41,9 @@ Transforming ideas into engaging apps since 2010.
   
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=apprentice&card_width=700px&disable_animations=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=slateorange&card_width=700px&disable_animations=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=default&card_width=700px&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=apprentice&card_width=700px&disable_animations=true" alt="ryanw-mobile" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=slateorange&card_width=700px&disable_animations=true" alt="ryanw-mobile" />
   </picture>
 </p>
 
