@@ -55,6 +55,13 @@ Transforming ideas into engaging apps since 2010.
 - 🔗 LinkedIn: [ryanwmobile](https://www.linkedin.com/in/ryanwmobile/)
 - 💬 Available for chat on Kotlin Slack: [kotlinlang.slack.com](kotlinlang.slack.com)
 
+&nbsp;
+
+## Shortcut to the repositories not pinned below
+
+- [Fused User Preferences](https://github.com/ryanw-mobile/FusedUserPreferences) - Template data source for both SharedPreferences and DataStore implementation
+- [nd940-cap-advanced-android-programming-project](https://github.com/ryanw-mobile/nd940-cap-advanced-android-programming-project) - An Android-Kotlin-MVVM application that provides civic data intended to provide educational opportunities to the U.S. electorate using data provided by the Google Civic Information API.
+
 <!---
 ryanw-mobile/ryanw-mobile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
