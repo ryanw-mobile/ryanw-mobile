@@ -2,7 +2,7 @@
 <h3 align="center">I make Android Apps, and more... <i>through Kotlin Multiplatform</i> </h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=brightgreen&style=flat-square&base=3695" alt="ryanw-mobile" /></p>
 <p align="center">
-  <img src="BlessUneva3.webp" style="width: 100%; max-width: 1000px; height: auto;">
+  <img src="BlessUneva4.webp" style="width: 100%; max-width: 1000px; height: auto;">
 </p>
 <p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=slateorange&disable_animations=true">
@@ -29,7 +29,7 @@ Transforming ideas into engaging apps since 2010.
 - 🚀 Self-taught, started by reverse engineering
 - 📱 13 Apps on Google Play with _RW Android Labs_ / _RW MobiMedia_
 - 📈 Privately-owned apps exceeding 1,400,000+ downloads
-- 🔄 13+ years of comprehensive experience in Android development, from concept to deployment
+- 🔄 14+ years of comprehensive experience in Android development, from concept to deployment
 
 &nbsp;
 
@@ -57,10 +57,11 @@ Transforming ideas into engaging apps since 2010.
 
 &nbsp;
 
-## Shortcut to the repositories not pinned below
+## Some other unpinned repositories
 
 - [Fused User Preferences](https://github.com/ryanw-mobile/FusedUserPreferences) - Template data source for both SharedPreferences and DataStore implementation
 - [nd940-cap-advanced-android-programming-project](https://github.com/ryanw-mobile/nd940-cap-advanced-android-programming-project) - An Android-Kotlin-MVVM application that provides civic data intended to provide educational opportunities to the U.S. electorate using data provided by the Google Civic Information API.
+- [JRNL](https://github.com/ryanw-mobile/JRNL) - Journaling iphone/iPad/VisionOS demo App with widget support, built by following tutorials 
 
 <!---
 ryanw-mobile/ryanw-mobile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
