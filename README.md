@@ -26,7 +26,6 @@
 
 Transforming ideas into engaging apps since 2010.
 
-- 🚀 Self-taught, started by reverse engineering
 - 📱 13 Apps on Google Play with _RW Android Labs_ / _RW MobiMedia_
 - 📈 Privately-owned apps exceeding 1,400,000+ downloads
 - 🔄 14+ years of comprehensive experience in Android development, from concept to deployment
@@ -36,7 +35,7 @@ Transforming ideas into engaging apps since 2010.
 ## Skills and Tools
 
 - 🛠️ Skilled in Kotlin, Java, and various other languages
-- 🎓 Previously proficient in Java (1999-2021) with multiple certifications
+- 🎓 Previously proficient in Java (1999-2021); primary programming language during my Computer Science undergrad with multiple certifications
 - 🔄 All major public repositories automated with Github Actions and Renovate
   
 <p align="center">
