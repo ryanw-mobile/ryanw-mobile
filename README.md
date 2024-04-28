@@ -32,6 +32,16 @@ Transforming ideas into engaging apps since 2010.
 
 &nbsp;
 
+## Recent Highlights
+
+<p align="center">
+  <a href="https://github.com/ryanw-mobile/compose-pager-demo"><img src="https://github.com/ryanw-mobile/compose-pager-demo/blob/main/screenshots/240428_animated.gif" width="200" alt="compose pager demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ryanw-mobile/giphy-trending"><img src="https://github.com/ryanw-mobile/giphy-trending/blob/main/screenshots/240428_animated.gif" width="200" alt="Giphy Trending"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ryanw-mobile/dazn-code-challenge"><img src="https://github.com/ryanw-mobile/dazn-code-challenge/blob/main/screenshots/240428_animated.gif" width="200" /></a>
+</p>
+
+&nbsp;
+
 ## Skills and Tools
 
 - 🛠️ Skilled in Kotlin, Java, and various other languages
