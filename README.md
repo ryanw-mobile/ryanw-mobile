@@ -35,7 +35,7 @@ Transforming ideas into engaging apps since 2010.
 ## Recent Highlights
 
 <p align="center">
-  <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/240531_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/240608_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/compose-pager-demo"><img src="https://github.com/ryanw-mobile/compose-pager-demo/blob/main/screenshots/240428_animated.gif" width="200" alt="compose pager demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/giphy-trending"><img src="https://github.com/ryanw-mobile/giphy-trending/blob/main/screenshots/240428_animated.gif" width="200" alt="Giphy Trending"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/dazn-code-challenge"><img src="https://github.com/ryanw-mobile/dazn-code-challenge/blob/main/screenshots/240503_animated.gif" width="200" /></a>
