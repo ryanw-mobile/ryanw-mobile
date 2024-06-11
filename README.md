@@ -38,7 +38,8 @@ Transforming ideas into engaging apps since 2010.
   <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/240608_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/compose-pager-demo"><img src="https://github.com/ryanw-mobile/compose-pager-demo/blob/main/screenshots/240428_animated.gif" width="200" alt="compose pager demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/giphy-trending"><img src="https://github.com/ryanw-mobile/giphy-trending/blob/main/screenshots/240428_animated.gif" width="200" alt="Giphy Trending"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ryanw-mobile/dazn-code-challenge"><img src="https://github.com/ryanw-mobile/dazn-code-challenge/blob/main/screenshots/240503_animated.gif" width="200" /></a>
+  <a href="https://github.com/ryanw-mobile/dazn-code-challenge"><img src="https://github.com/ryanw-mobile/dazn-code-challenge/blob/main/screenshots/240503_animated.gif" width="200" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ryanw-mobile/dvd-multiplatform"><img src="https://github.com/ryanw-mobile/dvd-multiplatform/blob/main/screenshot/240611_android_animated.gif" width="200" /></a>
 </p>
 
 &nbsp;
@@ -69,6 +70,7 @@ Transforming ideas into engaging apps since 2010.
 
 ## Some other unpinned repositories
 
+- [dvd-multiplatform](https://github.com/ryanw-mobile/dvd-multiplatform) - A Simple Kotlin Multiplatform tutorial targeting Android, iOS, Web, Desktop.
 - [Fused User Preferences](https://github.com/ryanw-mobile/FusedUserPreferences) - Template data source for both SharedPreferences and DataStore implementation
 - [nd940-cap-advanced-android-programming-project](https://github.com/ryanw-mobile/nd940-cap-advanced-android-programming-project) - An Android-Kotlin-MVVM application that provides civic data intended to provide educational opportunities to the U.S. electorate using data provided by the Google Civic Information API.
 - [JRNL](https://github.com/ryanw-mobile/JRNL) - Journaling iphone/iPad/VisionOS demo App with widget support, built by following tutorials 
