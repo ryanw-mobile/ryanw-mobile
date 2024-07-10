@@ -18,7 +18,7 @@
 
 - 🌍 UK Resident | **Open To Work** in Senior Android Developer roles
 - 🌱 Focused on `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform`, and `Compose Multiplatform`
-- 📚 Check out my in-depth journey as an Android Developer on [Medium](https://medium.com/@callmeryan/my-13-year-journey-as-an-android-developer-part-1-reflections-c21900e117d9)
+- 📚 Check out my blogs on [Medium](https://medium.com/@callmeryan)
 
 &nbsp;
 
@@ -27,7 +27,7 @@
 Transforming ideas into engaging apps since 2010.
 
 - 📱 13 Apps on Google Play with _RW Android Labs_ / _RW MobiMedia_
-- 📈 Privately-owned apps exceeding 1,400,000+ downloads
+- 📈 Privately-owned apps exceeding 1,600,000+ downloads
 - 🔄 14+ years of comprehensive experience in Android development, from concept to deployment
 
 &nbsp;
@@ -35,7 +35,7 @@ Transforming ideas into engaging apps since 2010.
 ## Recent Highlights
 
 <p align="center">
-  <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/240608_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/240710_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/compose-pager-demo"><img src="https://github.com/ryanw-mobile/compose-pager-demo/blob/main/screenshots/240428_animated.gif" width="200" alt="compose pager demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/giphy-trending"><img src="https://github.com/ryanw-mobile/giphy-trending/blob/main/screenshots/240428_animated.gif" width="200" alt="Giphy Trending"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/dazn-code-challenge"><img src="https://github.com/ryanw-mobile/dazn-code-challenge/blob/main/screenshots/240503_animated.gif" width="200" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
