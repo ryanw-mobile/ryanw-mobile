@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">I make Android Apps, and more... <i>through Kotlin Multiplatform</i> </h3>
+<h3 align="center">I make Android Apps, and more...</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=brightgreen&style=flat-square&base=3695" alt="ryanw-mobile" /></p>
 <p align="center">
   <img src="BlessUneva4.webp" style="width: 100%; max-width: 1000px; height: auto;">
@@ -16,9 +16,10 @@
 
 ## About Me
 
-- 🌍 UK Resident | **Open To Work** in Senior Android Developer roles
-- 🌱 Focused on `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform`, and `Compose Multiplatform`
-- 📚 Check out my blogs on [Medium](https://medium.com/@callmeryan)
+- 🌍 UK Resident
+- 🌱 Focused on `Modern Android Development`, `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform` / `Compose Desktop`
+- 📚 For more insights and reflections, follow me on [Medium](https://medium.com/@callmeryan/)
+- 🔗 LinkedIn: [ryanwmobile](https://www.linkedin.com/in/ryanwmobile/) 
 
 &nbsp;
 
@@ -57,14 +58,6 @@ Transforming ideas into engaging apps since 2010.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=slateorange&card_width=700px&disable_animations=true" alt="ryanw-mobile" />
   </picture>
 </p>
-
-&nbsp;
-
-## Connect & Explore
-
-- 🖊️ For more insights and reflections, follow me on [Medium](https://medium.com/@callmeryan/)
-- 🔗 LinkedIn: [ryanwmobile](https://www.linkedin.com/in/ryanwmobile/)
-- 💬 Available for chat on Kotlin Slack: [kotlinlang.slack.com](kotlinlang.slack.com)
 
 &nbsp;
 
