@@ -26,20 +26,20 @@ Available for outside IR35 contracts or permanent roles (remote/hybrid around Gr
 
 ## About Me
 
-- 🧑‍💻 Focused on `Modern Android Development`, with expertise in `Jetpack Compose`, `Coroutines`.
-- 🧪 I am open to exploring other emerging technologies and frameworks like `Kotlin Multiplatform` / `Compose Desktop`.
-- 📚 You can find more of my insights and reflections on [Medium](https://medium.com/@callmeryan/).
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ryanwmobile/) for professional networking.
+- 🧑‍💻 Specialising in `Modern Android Development`, with a focus on `Jetpack Compose` and `Coroutines`.
+- 🧪 Open to learning and exploring new technologies such as `Kotlin Multiplatform` and `Compose Desktop`.
+- 📚 I share my thoughts and insights on [Medium](https://medium.com/@callmeryan/), where I document my journey in Android development.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ryanwmobile/) for professional networking and collaboration opportunities.
 
 &nbsp;
 
 ## My Android Journey
 
-With over a decade of experience, I’ve transformed ideas into engaging apps that users love. I’ve honed my skills through diverse roles in Android development, combining technical expertise with a passion for crafting impactful solutions.
+With over a decade of experience, I’ve developed and refined Android apps that meet users’ needs and solve real-world problems. Throughout various roles, I’ve enjoyed contributing to meaningful projects and evolving alongside Android’s rapid changes.
 
-- 📱 13 Apps on Google Play with _RW Android Labs_ / _RW MobiMedia_
-- 📈 Privately-owned apps exceeding 1.6M+ downloads
-- 🔄 14+ years of experience in Android development, covering the full cycle from concept to deployment
+- 📱 A portfolio of apps on Google Play under _RW Android Labs_ and _RW MobiMedia_, focusing on practical, user-centred solutions.
+- 📈 Apps that continue to grow, supported by user feedback and ongoing improvements.
+- 🔄 14+ years in Android development, with experience across the full development lifecycle—from concept to deployment.
 
 &nbsp;
 
