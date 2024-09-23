@@ -26,20 +26,20 @@ Available for outside IR35 contracts or permanent roles (remote/hybrid around Gr
 
 ## About Me
 
-- 🧑‍💻 Specialising in `Modern Android Development`, with a focus on `Jetpack Compose` and `Coroutines`.
+- 🧑‍💻 14+ years of Android development experience, evolving from `XML Views` and `RxJava` to modern tools like `Jetpack Compose` and `Coroutines Flow`.  
 - 🧪 Open to learning and exploring new technologies such as `Kotlin Multiplatform` and `Compose Desktop`.
-- 📚 I share my thoughts and insights on [Medium](https://medium.com/@callmeryan/), where I document my journey in Android development.
+- 📚 I share my thoughts and insights on [Medium](https://medium.com/@callmeryan/), documenting my journey in Android development.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ryanwmobile/) for professional networking and collaboration opportunities.
 
 &nbsp;
 
 ## My Android Journey
 
-With over a decade of experience, I’ve developed and refined Android apps that meet users’ needs and solve real-world problems. Throughout various roles, I’ve enjoyed contributing to meaningful projects and evolving alongside Android’s rapid changes.
+With over a decade of experience, I’ve developed Android apps that solve real-world problems and evolve with user feedback.  
 
 - 📱 A portfolio of apps on Google Play under _RW Android Labs_ and _RW MobiMedia_, focusing on practical, user-centred solutions.
-- 📈 Apps that continue to grow, supported by user feedback and ongoing improvements.
-- 🔄 14+ years in Android development, with experience across the full development lifecycle—from concept to deployment.
+- 📈 Continuous growth in app development, driven by feedback and improvements.  
+- 🔄 Experience across the full lifecycle—from concept to deployment.
 
 &nbsp;
 
