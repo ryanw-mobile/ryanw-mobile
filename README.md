@@ -24,29 +24,23 @@ Available for outside IR35 contracts or permanent roles (remote/hybrid around Gr
 
 ---
 
-## About Me
-
-- 🧑‍💻 14+ years of Android development experience, evolving from `XML Views` and `RxJava` to modern tools like `Jetpack Compose` and `Coroutines Flow`.  
-- 🧪 Open to learning and exploring new technologies such as `Kotlin Multiplatform` and `Compose Desktop`.
-- 📚 I share my thoughts and insights on [Medium](https://medium.com/@callmeryan/), documenting my journey in Android development.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ryanwmobile/) for professional networking and collaboration opportunities.
-
 &nbsp;
 
-## My Android Journey
+## About Me
 
-With over a decade of experience, I’ve developed Android apps that solve real-world problems and evolve with user feedback.  
-
-- 📱 A portfolio of apps on Google Play under _RW Android Labs_ and _RW MobiMedia_, focusing on practical, user-centred solutions.
-- 📈 Continuous growth in app development, driven by feedback and improvements.  
-- 🔄 Experience across the full lifecycle—from concept to deployment.
+- 🧑‍💻 Over a decade of Android development experience, evolving from `XML Views` and `RxJava` to modern tools like `Jetpack Compose` and `Kotlin Coroutines Flow`.  
+- 🧪 Continuously learning and expanding into new areas such as `Kotlin Multiplatform` and `Compose Desktop`.  
+- 📱 Developed apps that solve real-world problems under _RW Android Labs_ and _RW MobiMedia_, focusing on user-centred solutions.  
+- 📈 Experienced across the full development lifecycle—from concept to deployment—with a track record of continuous growth.  
+- 📚 Sharing thoughts and insights on [Medium](https://medium.com/@callmeryan/) to document my journey in Android development.  
+- 🔗 Open to professional networking and collaboration—connect with me on [LinkedIn](https://www.linkedin.com/in/ryanwmobile/).
 
 &nbsp;
 
 ## Recent Highlights
 
 <p align="center">
-  <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/240710_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/241001_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/compose-pager-demo"><img src="https://github.com/ryanw-mobile/compose-pager-demo/blob/main/screenshots/240801_animated.gif" width="200" alt="compose pager demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/giphy-trending"><img src="https://github.com/ryanw-mobile/giphy-trending/blob/main/screenshots/240428_animated.gif" width="200" alt="Giphy Trending"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryanw-mobile/video-player-app"><img src="https://github.com/ryanw-mobile/video-player-app/blob/main/screenshots/240503_animated.gif" width="200" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
