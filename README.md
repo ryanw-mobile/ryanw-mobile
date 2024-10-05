@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">I make Android Apps, and more...</h3>
+<h1 align="center">Thank you for visiting my GitHub!</h1>
+<h3 align="center">I make Android Apps, and more... Got an idea? Let’s collaborate!</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=brightgreen&style=flat-square&base=3695" alt="ryanw-mobile" /></p>
 <p align="center">
   <img src="BlessUneva4.webp" style="width: 100%; max-width: 1000px; height: auto;">
@@ -20,7 +20,7 @@
 ### 🇬🇧 **UK Resident with the right to work and no need for sponsorship** 
 Available for outside IR35 contracts or permanent roles (remote/hybrid around Greater London)
 
-📧 **Email me for discussions**: [jobs@rwmobi.com](mailto:jobs@rwmobi.com)
+ 📧 **Email me for discussions**: [jobs@rwmobi.com](mailto:jobs@rwmobi.com)
 
 ---
 
