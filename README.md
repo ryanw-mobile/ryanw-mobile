@@ -49,12 +49,15 @@ Available for outside IR35 contracts or permanent roles (remote/hybrid around Gr
 
 &nbsp;
 
-## Skills and Tools
+## Some other unpinned repositories
 
-- 🛠️ Languages: Proficient in Kotlin, Java, and comfortable with a variety of other tools and frameworks.
-- 🎓 Previously focused on Java (1999-2021), used extensively during my Computer Science undergraduate studies, with additional certifications.
-- 🔄 My public repositories are maintained with GitHub Actions and Renovate to ensure consistent updates.
-  
+- [dvd-multiplatform](https://github.com/ryanw-mobile/dvd-multiplatform) - A Simple Kotlin Multiplatform tutorial targeting Android, iOS, Web, Desktop.
+- [Fused User Preferences](https://github.com/ryanw-mobile/FusedUserPreferences) - Template data source for both SharedPreferences and DataStore implementation
+- [nd940-cap-advanced-android-programming-project](https://github.com/ryanw-mobile/nd940-cap-advanced-android-programming-project) - An Android-Kotlin-MVVM application that provides civic data intended to provide educational opportunities to the U.S. electorate using data provided by the Google Civic Information API.
+- [JRNL](https://github.com/ryanw-mobile/JRNL) - Journaling iphone/iPad/VisionOS demo App with widget support, built by following tutorials 
+
+&nbsp;
+
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=slateorange&card_width=700px&disable_animations=true">
@@ -62,15 +65,6 @@ Available for outside IR35 contracts or permanent roles (remote/hybrid around Gr
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanw-mobile&show_icons=true&locale=en&layout=compact&theme=slateorange&card_width=700px&disable_animations=true" alt="ryanw-mobile" />
   </picture>
 </p>
-
-&nbsp;
-
-## Some other unpinned repositories
-
-- [dvd-multiplatform](https://github.com/ryanw-mobile/dvd-multiplatform) - A Simple Kotlin Multiplatform tutorial targeting Android, iOS, Web, Desktop.
-- [Fused User Preferences](https://github.com/ryanw-mobile/FusedUserPreferences) - Template data source for both SharedPreferences and DataStore implementation
-- [nd940-cap-advanced-android-programming-project](https://github.com/ryanw-mobile/nd940-cap-advanced-android-programming-project) - An Android-Kotlin-MVVM application that provides civic data intended to provide educational opportunities to the U.S. electorate using data provided by the Google Civic Information API.
-- [JRNL](https://github.com/ryanw-mobile/JRNL) - Journaling iphone/iPad/VisionOS demo App with widget support, built by following tutorials 
 
 <!---
 ryanw-mobile/ryanw-mobile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
