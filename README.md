@@ -32,7 +32,7 @@ Available for outside IR35 contracts or permanent roles (remote/hybrid around Gr
 - 🧪 Continuously learning and expanding into new areas such as `Kotlin Multiplatform` and `Compose Desktop`.  
 - 📱 Developed apps that solve real-world problems under _RW Android Labs_ and _RW MobiMedia_, focusing on user-centred solutions.  
 - 📈 Experienced across the full development lifecycle—from concept to deployment—with a track record of continuous growth.  
-- 📚 Sharing thoughts and insights on [Medium](https://medium.com/@callmeryan/) to document my journey in Android development.  
+- 📚 Sharing thoughts and insights on [Medium](https://callmeryan.medium.com/) to document my journey in Android development.  
 - 🔗 Open to professional networking and collaboration—connect with me on [LinkedIn](https://www.linkedin.com/in/ryanwmobile/).
 
 &nbsp;
