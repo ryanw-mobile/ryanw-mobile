@@ -15,16 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=slateorange&disable_animations=true" alt="ryanw-mobile"/>
 </picture></p>
 
----
-
-### 🇬🇧 **UK Resident with the right to work and no need for sponsorship** 
-Available for outside IR35 contracts or permanent roles (remote/hybrid around Greater London)
-
- 📧 **Email me for discussions**: [jobs@rwmobi.com](mailto:jobs@rwmobi.com)
-
----
-
-&nbsp;
+&nbsp; 
 
 ## About Me
 
@@ -32,12 +23,10 @@ Available for outside IR35 contracts or permanent roles (remote/hybrid around Gr
 - 🧪 Continuously learning and expanding into new areas such as `Kotlin Multiplatform` and `Compose Desktop`.  
 - 📱 Developed apps that solve real-world problems under _RW Android Labs_ and _RW MobiMedia_, focusing on user-centred solutions.  
 - 📈 Experienced across the full development lifecycle—from concept to deployment—with a track record of continuous growth.  
-- 📚 Sharing thoughts and insights on [Medium](https://callmeryan.medium.com/) to document my journey in Android development.  
-- 🔗 Open to professional networking and collaboration—connect with me on [LinkedIn](https://www.linkedin.com/in/ryanwmobile/).
 
 &nbsp;
 
-## Recent Highlights
+## Highlights
 
 <p align="center">
   <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/241001_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,10 +40,8 @@ Available for outside IR35 contracts or permanent roles (remote/hybrid around Gr
 
 ## Some other unpinned repositories
 
-- [dvd-multiplatform](https://github.com/ryanw-mobile/dvd-multiplatform) - A Simple Kotlin Multiplatform tutorial targeting Android, iOS, Web, Desktop.
 - [Fused User Preferences](https://github.com/ryanw-mobile/FusedUserPreferences) - Template data source for both SharedPreferences and DataStore implementation
 - [nd940-cap-advanced-android-programming-project](https://github.com/ryanw-mobile/nd940-cap-advanced-android-programming-project) - An Android-Kotlin-MVVM application that provides civic data intended to provide educational opportunities to the U.S. electorate using data provided by the Google Civic Information API.
-- [JRNL](https://github.com/ryanw-mobile/JRNL) - Journaling iphone/iPad/VisionOS demo App with widget support, built by following tutorials 
 
 &nbsp;
 
