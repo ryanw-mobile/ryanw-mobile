@@ -19,16 +19,14 @@
 
 ## About Me
 
-- 🧑‍💻 16+ years of Android experience, evolving from `XML Views` and `RxJava` to modern tools like `Jetpack Compose` and `Kotlin Coroutines Flow`.  
-- 📱 Delivered apps used by millions through _RW MobiMedia_, and contributed to software delivery across sectors including government, finance, telecom, education, and media.
-- 🧪 Experimented with modern stacks like `Kotlin Multiplatform`, `Compose Desktop`, and AI-driven systems using cloud architecture.
-- 🚀 Experienced across the full delivery lifecycle — from idea to launch — with a focus on simplicity, maintainability, and real-world impact.
+- 🧑‍💻 16+ years of Android experience, evolving from `XML Views` and `RxJava` to `Jetpack Compose` and `Kotlin Coroutines`.  
+- 📱 Delivered apps used by millions through _RW MobiMedia_, and contributed to software delivery across sectors like government, finance, telecom, education, and media.
+- 🧪 Experimented with modern stacks like `Kotlin Multiplatform`, `Compose Desktop`, and cloud-based AI-driven systems.
+- 🚀 Experienced across the full delivery lifecycle, from idea to launch, with a focus on simplicity, maintainability, and impact.
   
 &nbsp;
 
 ## Highlights
-
-This GitHub features Android projects I've delivered, alongside broader work behind the scenes in intelligent systems and scalable platforms.
 
 <p align="center">
   <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/241001_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
