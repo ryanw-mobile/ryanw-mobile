@@ -1,4 +1,4 @@
-<h1 align="center">I create Android apps and beyond, built for real-world impact.</h1>
+<h1 align="center">I create Android apps and beyond,<br />built for real-world impact.</h1>
 <h3 align="center">Got meaningful projects or opportunities? Let’s work together.<br />Thank you for your visit!</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=brightgreen&style=flat-square&base=3695" alt="ryanw-mobile" /></p>
 <p align="center">
