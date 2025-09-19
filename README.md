@@ -1,5 +1,5 @@
-<h1 align="center">Thank you for visiting my GitHub!</h1>
-<h3 align="center">I make Android Apps, and more... Got an idea? Let’s collaborate!</h3>
+<h1 align="center">I create Android apps and beyond, built for real-world impact.</h1>
+<h3 align="center">Got meaningful projects or opportunities? Let’s work together.<br />Thank you for your visit!</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=brightgreen&style=flat-square&base=3695" alt="ryanw-mobile" /></p>
 <p align="center">
   <img src="BlessUneva4.webp" style="width: 100%; max-width: 1000px; height: auto;">
@@ -19,14 +19,16 @@
 
 ## About Me
 
-- 🧑‍💻 Over a decade of Android development experience, evolving from `XML Views` and `RxJava` to modern tools like `Jetpack Compose` and `Kotlin Coroutines Flow`.  
-- 🧪 Continuously learning and expanding into new areas such as `Kotlin Multiplatform` and `Compose Desktop`.  
-- 📱 Developed apps that solve real-world problems under _RW Android Labs_ and _RW MobiMedia_, focusing on user-centred solutions.  
-- 📈 Experienced across the full development lifecycle—from concept to deployment—with a track record of continuous growth.  
-
+- 🧑‍💻 16+ years of Android experience, evolving from `XML Views` and `RxJava` to modern tools like `Jetpack Compose` and `Kotlin Coroutines Flow`.  
+- 📱 Delivered apps used by millions through _RW MobiMedia_, and contributed to software delivery across sectors including government, finance, telecom, education, and media.
+- 🧪 Experimented with modern stacks like `Kotlin Multiplatform`, `Compose Desktop`, and AI-driven systems using cloud architecture.
+- 🚀 Experienced across the full delivery lifecycle — from idea to launch — with a focus on simplicity, maintainability, and real-world impact.
+  
 &nbsp;
 
 ## Highlights
+
+This GitHub features Android projects I've delivered, alongside broader work behind the scenes in intelligent systems and scalable platforms.
 
 <p align="center">
   <a href="https://github.com/ryanw-mobile/OctoMeter"><img src="https://github.com/ryanw-mobile/OctoMeter/blob/main/screenshots/241001_animated.gif" width="200" alt="OctoMeter Kotlin Multiplatform Demo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
