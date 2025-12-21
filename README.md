@@ -6,9 +6,9 @@
 </p>
 
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=slateorange&disable_animations=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=default&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/?user=ryanw-mobile&theme=slateorange&disable_animations=true" alt="ryanw-mobile"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&theme=slateorange&disable_animations=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&theme=default&disable_animations=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&theme=slateorange&disable_animations=true" alt="ryanw-mobile"/>
 </picture> <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=slateorange&disable_animations=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=default&disable_animations=true">
@@ -19,10 +19,11 @@
 
 ## About Me
 
-- 🧑‍💻 16+ years of Android experience, evolving from `XML Views` and `RxJava` to `Jetpack Compose` and `Kotlin Coroutines`.  
-- 📱 Delivered apps used by millions through _RW MobiMedia_, and contributed to software delivery across sectors like government, finance, telecom, education, and media.
-- 🧪 Experimented with modern stacks like `Kotlin Multiplatform`, `Compose Desktop`, and cloud-based AI-driven systems.
+- 💼 Contributed to software delivery across sectors like government, finance, telecom, education, and media for decades.
 - 🚀 Experienced across the full delivery lifecycle, from idea to launch, with a focus on simplicity, maintainability, and impact.
+- 🧑‍💻 16+ years of Android experience, evolving from `XML Views` and `RxJava` to `Jetpack Compose` and `Kotlin Coroutines`.  
+- 📱 Delivered apps used by millions through _RW MobiMedia_ Hong Kong and England.
+- 📝 Follow my [Medium blog](https://callmeryan.medium.com/) for more.
   
 &nbsp;
 
@@ -38,7 +39,7 @@
 
 &nbsp;
 
-## Some other unpinned repositories
+## Some other experimental repositories
 
 - [Fused User Preferences](https://github.com/ryanw-mobile/FusedUserPreferences) - Template data source for both SharedPreferences and DataStore implementation
 - [nd940-cap-advanced-android-programming-project](https://github.com/ryanw-mobile/nd940-cap-advanced-android-programming-project) - An Android-Kotlin-MVVM application that provides civic data intended to provide educational opportunities to the U.S. electorate using data provided by the Google Civic Information API.
