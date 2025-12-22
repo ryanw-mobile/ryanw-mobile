@@ -6,9 +6,9 @@
 </p>
 
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&theme=slateorange&disable_animations=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&theme=default&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&theme=slateorange&disable_animations=true" alt="ryanw-mobile"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=slateorange&disable_animations=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=default&disable_animations=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=default&disable_animations=true" alt="ryanw-mobile"/>
 </picture> <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=slateorange&disable_animations=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=default&disable_animations=true">
