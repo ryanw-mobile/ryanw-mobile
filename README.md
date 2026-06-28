@@ -1,9 +1,6 @@
 <h1 align="center">I create Android apps and beyond,<br />built for real-world impact.</h1>
 <h3 align="center">Got meaningful projects or opportunities? Let's work together.<br />Thank you for your visit!</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ryanw-mobile&label=Profile%20views&color=brightgreen&style=flat-square&base=3695" alt="ryanw-mobile" /></p>
-<p align="center">
-  <img src="BlessUneva4.webp" style="width: 100%; max-width: 1000px; height: auto;">
-</p>
 
 <p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ryanw-mobile&theme=slateorange&disable_animations=true">
@@ -15,13 +12,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ryanw-mobile&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=slateorange&disable_animations=true" alt="ryanw-mobile"/>
 </picture></p>
 
-&nbsp;
+<p align="center">
+  <img src="BlessUneva4.webp" style="width: 100%; max-width: 1000px; height: auto;">
+</p>
 
-## About Me
+&nbsp;
 
 - 🧑‍💻 16+ years of Android experience, from XML Views and RxJava to Jetpack Compose and Kotlin Coroutines.
 - 📱 Delivered apps used by millions.
-
+- 🤖 Applying ethical AI to build intelligent mobile solutions.
+  
 &nbsp;
 
 ## Highlights
